@@ -8,7 +8,7 @@ This repository showcases an advanced analysis of optical flow within image sequ
 
 ## Key Features
 
-- **Spatiotemporal Derivatives Computation:** Extract motion insights from the image `insight23.png` based on its sequence.
+- **Spatiotemporal Derivatives Computation:** Extract motion insights from the image based on its sequence.
 - **Optical Flow Field Creation:** A meticulous approach to compute optical flow vectors (u, v) for each pixel, underpinned by a confidence metric `smin`.
 - **Vector Field Visualization:** Dynamic plotting functions catering to varying thresholds to ensure precision and clarity.
 - **Epipole Calculation:** Incorporating the RANSAC algorithm, we discern the epipole's pixel position to assess optical flow and its associated motion dynamics.
